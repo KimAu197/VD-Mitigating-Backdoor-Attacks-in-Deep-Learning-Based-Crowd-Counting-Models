@@ -1,4 +1,4 @@
-# </center> Vulnerability and Dfense: Mitigating Backdoors in Deep Learning-based Crowd Counting Models </center>
+# </center> Vulnerability and Defense: Mitigating Backdoors in Deep Learning-based Crowd Counting Models </center>
 
 ## </cneter> Abstract </center>
 
