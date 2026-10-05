@@ -40,9 +40,6 @@ Using the gradcam.py in CSRnet file to visualize.
   <p>Figure 2：Grad-CAM visualization of regions that contributes to model decision under add attack strategies and fine-tuning defense methods with CSRnet.</p>
 </div>
 
-## Paper
-See https://eudl.eu/doi/10.4108/eai.17-1-2025.2355235 
-
 ## References
 
 CSRnet
