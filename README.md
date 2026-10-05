@@ -1,5 +1,5 @@
 # </center> Vulnerability and Defense: Mitigating Backdoors in Deep Learning-based Crowd Counting Models </center>
-
+Paper: https://eudl.eu/doi/10.4108/eai.17-1-2025.2355235
 ## </cneter> Abstract </center>
 
 Crowd counting aims to infer the number of people or objects in an image through different methods. It is widely used in surveillance, sensitive events, etc., and plays a vital role in a series of security- critical applications. Most of the state-of-the-art crowd counting models are based on deep learning, which are very efficient and accurate in handling dense scenes. Although such models are effective, they are still vulnerable to backdoor attacks. Attackers can compromise model accuracy by poisoning
